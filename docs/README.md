@@ -1,10 +1,7 @@
-<span style="text-align: center;">
+<span style="text-align: center">
 ![Stormtroopocat](https://octodex.github.com/images/nyantocat.gif "The Nyan")
 </span>
-
 <h1 style="text-align: center" >To Do &#128058;</h1>
-
-
 > Tests
 
 - [x]   Unit Tests :zap:
