@@ -2,15 +2,9 @@
 
 ![Stormtroopocat](https://octodex.github.com/images/nyantocat.gif "The Nyan")
 
-
-:wolf: Bvu Frontend :octopus: :octopus: :octopus:
-
-#### TODO
-
 </span>
-<h1><b>interpreted? &#128058;</h1>
+<h1 style="text-align: center" >To Do &#128058;</h1>
 
-&#128058;
 
 > Tests
 
@@ -18,9 +12,9 @@
 
 > Framework Updaten
 
-- [ ] Angular CKD, CLI, Material, etc
-- [ ] Typescript
-- [ ] select 2 Component
+[ ] Angular CKD, CLI, Material, etc
+[ ] Typescript
+[ ] select 2 Component
 
 > Bugz :bug:
 
