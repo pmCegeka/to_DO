@@ -1,8 +1,7 @@
 <span style="text-align: center; font-size: 30px; font-weight: bold" markdown="1">
-
 ![Stormtroopocat](https://octodex.github.com/images/nyantocat.gif "The Nyan")
-
 </span>
+
 <h1 style="text-align: center" >To Do &#128058;</h1>
 
 
@@ -12,9 +11,9 @@
 
 > Framework Updaten
 
-[ ] Angular CKD, CLI, Material, etc
-[ ] Typescript
-[ ] select 2 Component
+- [ ] Angular CKD, CLI, Material, etc
+- [ ] Typescript
+- [ ] select 2 Component
 
 > Bugz :bug:
 
