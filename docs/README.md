@@ -1,4 +1,4 @@
-<span style="text-align: center; font-size: 30px; font-weight: bold" markdown="1">
+<span style="text-align: center;">
 ![Stormtroopocat](https://octodex.github.com/images/nyantocat.gif "The Nyan")
 </span>
 
