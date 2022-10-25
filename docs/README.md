@@ -11,7 +11,7 @@
 
 > Framework Updaten
 
-- [ ] Angular CKD, CLI, Material, etc
+- [x] Angular CKD, CLI, Material, etc
 - [ ] Typescript
 - [x] select 2 Component
 - [ ] Cypress
@@ -54,5 +54,5 @@
 > - pooper for bottstrap
 >  - jasmine core
 
-> Trivia
-> cdn's, B4ckend tests, css, 
+Trivia: 
+cdn's, B4ckend tests, css, 
