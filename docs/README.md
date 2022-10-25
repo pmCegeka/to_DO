@@ -12,7 +12,7 @@
 
 - [ ] Angular CKD, CLI, Material, etc
 - [ ] Typescript
-- [ ] select 2 Component
+- [x] select 2 Component
 - [ ] Cypress
 - [ ] code coverage Fehler
 
