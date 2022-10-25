@@ -1,5 +1,7 @@
 <span style="text-align: center">
+
 ![Stormtroopocat](https://octodex.github.com/images/nyantocat.gif "The Nyan")
+
 </span>
 <h1 style="text-align: center" >To Do &#128058;</h1>
 > Tests
@@ -11,6 +13,8 @@
 - [ ] Angular CKD, CLI, Material, etc
 - [ ] Typescript
 - [ ] select 2 Component
+- [ ] Cypress
+- [ ] code coverage Fehler
 
 > Bugz :bug:
 
