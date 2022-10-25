@@ -39,7 +39,8 @@
 - [x] lint Pipeline
 - [x] build Pipeline
 - [x] update Pipeline
-- [ ] Maven Pipeline
+- [x] Maven Pipeline
+- [x] Deployment auf TestServer 
  
 > Dependencies
 
