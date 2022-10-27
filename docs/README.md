@@ -55,6 +55,7 @@
 - [x] update Pipeline
 - [x] Maven Pipeline
 - [x] Deployment auf TestServer
+- [ ] E2E pipeline, Xvfb install
 
 > Dependencies
 
