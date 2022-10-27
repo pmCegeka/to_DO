@@ -8,7 +8,7 @@
 > Tests
 
 - [x]   Unit Tests :zap:
-- [ ]   E2E Tests Capress:
+- [ ]   E2E Tests Cypress:
     - [ ]   Page 1
     - [ ]   Page 2
     - [ ]   Page 3
