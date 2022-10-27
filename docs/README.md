@@ -14,15 +14,15 @@
   - [ ]   Page 3
   - [ ]   Page 4
 
-> Framework Updaten
+> Framework Updaten :point_up_2:
 
 - [x] Angular CKD, CLI, Material, etc
 - [ ] Typescript
 - [x] select 2 Component
 - [x] Cypress
-- [ ] code coverage Fehler
+- [x] code coverage Fehler
 
-> Bugz :bug:
+> Bugz :bug::bug::bug::bug::bug:
 
 - [x] Placeholder Angestellter3component
 - [x] speichern value angestellter1 component
@@ -39,13 +39,15 @@
 - [x] dottet line -> straight line bei dropdown value
 - [x] dottet line -> straight line bei Datums value
 
-> beautify
+> :sunny: beautify :sunny:
 
 - [ ] weniger Komponenten
 - [ ] Imports überprüfen
 - [ ] logic view components
-- [ ] linter überprüfung auf 100% 
+- [ ] linter überprüfung auf 100%
 - [ ] lazy loading
+- [x] legacy - "Versorgungsübersicht" überlappt, rendert nicht 
+- [x] legacy - header rendert nicht richtig in kleiner Auflösung
 
 > Deployment
 
