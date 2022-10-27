@@ -37,7 +37,7 @@
 > Feature Requests
 
 - [x] dottet line -> straight line bei dropdown value
-- [ ] dottet line -> straight line bei Datums value
+- [x] dottet line -> straight line bei Datums value
 
 > beautify
 
