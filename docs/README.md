@@ -24,16 +24,19 @@
 
 > Bugz :bug:
 
-- [ ] circular subscription
-- [ ] mobile First / Layout
-- [ ] Requests :zap: :zap: :zap:
-- [ ] page refresh, restart trotz daten, 
-- [ ] page scrollt bei Eingabe Dropdown
-- [ ] lifecycle logik
+- [ ] Placeholder Angestellter3component
+- [ ] speichern value angestellter1 component
+- [ ] legacy - circular subscription
+- [ ] legacy - mobile First / Layout
+- [ ] legacy - Requests :zap: :zap: :zap:
+- [ ] legacy - page refresh, restart trotz daten, 
+- [ ] legacy - page scrollt bei Eingabe Dropdown
+- [ ] legacy - lifecycle logik
+- [ ] legacy - Jqeuery wirft Fehler in Production
 
+> beautify
 
-> beautify 
-
+- [ ] dottet line -> straight line bei dropdown value
 - [ ] weniger Komponenten
 - [ ] Imports überprüfen
 - [ ] logic view components
