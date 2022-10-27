@@ -9,10 +9,10 @@
 
 - [x]   Unit Tests :zap: (page 1-4, Beamter1-4, Angestellter1-4, Services = 98 Stck)
 - [ ]   E2E Tests Cypress:
-    - [ ]   Page 1
-    - [ ]   Page 2
-    - [ ]   Page 3
-    - [ ]   Page 4
+  - [ ]   Page 1
+  - [ ]   Page 2
+  - [ ]   Page 3
+  - [ ]   Page 4
 
 > Framework Updaten
 
@@ -37,6 +37,7 @@
 > Feature Requests
 
 - [x] dottet line -> straight line bei dropdown value
+- [ ] dottet line -> straight line bei Datums value
 
 > beautify
 
@@ -66,6 +67,8 @@
 > - codelizer
 > - pooper for bottstrap
 > - jasmine core
-
+----
+> Design Tool AdobeXD o.ä,
+---
 Trivia:
 cdn's, B4ckend tests, css,
