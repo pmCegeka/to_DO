@@ -24,8 +24,8 @@
 
 > Bugz :bug:
 
-- [ ] Placeholder Angestellter3component
-- [ ] speichern value angestellter1 component
+- [x] Placeholder Angestellter3component
+- [x] speichern value angestellter1 component
 - [ ] legacy - circular subscription
 - [ ] legacy - mobile First / Layout
 - [ ] legacy - Requests :zap: :zap: :zap:
@@ -34,9 +34,12 @@
 - [ ] legacy - lifecycle logik
 - [ ] legacy - Jqeuery wirft Fehler in Production - script.js:tracking Script??
 
+> Feature Requests
+
+- [x] dottet line -> straight line bei dropdown value
+
 > beautify
 
-- [ ] dottet line -> straight line bei dropdown value
 - [ ] weniger Komponenten
 - [ ] Imports überprüfen
 - [ ] logic view components
@@ -44,13 +47,14 @@
 - [ ] lazy loading
 
 > Deployment
+
 - [x] test Pipeline
 - [x] lint Pipeline
 - [x] build Pipeline
 - [x] update Pipeline
 - [x] Maven Pipeline
-- [x] Deployment auf TestServer 
- 
+- [x] Deployment auf TestServer
+
 > Dependencies
 
 - [ ] jquery
@@ -58,9 +62,10 @@
 - [ ] hammerjs
 - [ ] jquery
 - [ ] peer:
->  - codelizer
-> - pooper for bottstrap
->  - jasmine core
 
-Trivia: 
-cdn's, B4ckend tests, css, 
+> - codelizer
+> - pooper for bottstrap
+> - jasmine core
+
+Trivia:
+cdn's, B4ckend tests, css,
