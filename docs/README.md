@@ -8,13 +8,18 @@
 > Tests
 
 - [x]   Unit Tests :zap:
+- [ ]   E2E Tests Capress:
+    - [ ]   Page 1
+    - [ ]   Page 2
+    - [ ]   Page 3
+    - [ ]   Page 4
 
 > Framework Updaten
 
 - [x] Angular CKD, CLI, Material, etc
 - [ ] Typescript
 - [x] select 2 Component
-- [ ] Cypress
+- [x] Cypress
 - [ ] code coverage Fehler
 
 > Bugz :bug:
@@ -25,7 +30,7 @@
 - [ ] page refresh, restart trotz daten, 
 - [ ] page scrollt bei Eingabe Dropdown
 - [ ] lifecycle logik
--- https://www.sneppets.com/angular/ how-to-call-ngoninit-again-from-another-function-angular-9/
+
 
 > beautify 
 
@@ -46,7 +51,7 @@
 > Dependencies
 
 - [ ] jquery
-- [ ] select2
+- [x] select2 -> ng-select2
 - [ ] hammerjs
 - [ ] jquery
 - [ ] peer:
