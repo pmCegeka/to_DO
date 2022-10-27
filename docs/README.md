@@ -32,7 +32,7 @@
 - [ ] legacy - page refresh, restart trotz daten, 
 - [ ] legacy - page scrollt bei Eingabe Dropdown
 - [ ] legacy - lifecycle logik
-- [ ] legacy - Jqeuery wirft Fehler in Production
+- [ ] legacy - Jqeuery wirft Fehler in Production - script.js:tracking Script??
 
 > beautify
 
