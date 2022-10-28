@@ -8,16 +8,17 @@
 > Tests
 
 - [x]   Unit Tests :zap: (page 1-4, Beamter1-4, Angestellter1-4, Services = 98 Stck)
-- [ ]   E2E Tests Cypress:
+- [x]   E2E Tests Cypress:
   - [x]   Page 1
-  - [ ]   Page 2
-  - [ ]   Page 3
-  - [ ]   Page 4
+  - [x]   Page 2
+  - [x]   Page 3
+  - [x]   Page 4
 
 > Framework Updaten :point_up_2:
 
 - [x] Angular CKD, CLI, Material, etc
-- [ ] Typescript
+- [x] Typescript
+- [x] Ts Config und Angular Compiler
 - [x] select 2 Component
 - [x] Cypress
 - [x] code coverage Fehler
@@ -26,8 +27,9 @@
 
 - [x] Placeholder Angestellter3component
 - [x] speichern value angestellter1 component
+- [ ] tsconfig erkennt ENTWEDER jasmine oder cypress syntax
 - [ ] legacy - circular subscription
-- [ ] legacy - mobile First / Layout
+- [x] legacy - mobile First / Layout
 - [ ] legacy - Requests :zap: :zap: :zap:
 - [ ] legacy - page refresh, restart trotz daten, 
 - [ ] legacy - page scrollt bei Eingabe Dropdown
@@ -64,7 +66,6 @@
 - [ ] jquery
 - [x] select2 -> ng-select2
 - [ ] hammerjs
-- [ ] jquery
 - [ ] peer:
 
 > - codelizer
