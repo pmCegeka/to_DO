@@ -28,13 +28,15 @@
 - [x] Placeholder Angestellter3component
 - [x] speichern value angestellter1 component
 - [ ] tsconfig erkennt ENTWEDER jasmine oder cypress syntax
+- [x] legacy - circular subscription Page1
 - [ ] legacy - circular subscription
 - [x] legacy - mobile First / Layout
-- [ ] legacy - Requests :zap: :zap: :zap:
-- [ ] legacy - page refresh, restart trotz daten, 
+- [ ] legacy - multiple Requests Page 1 :zap: :zap: :zap:
+- [ ] legacy - Requests Page3/4 -> gleiche subscription :zap: :zap: :zap:
+- [ ] legacy - page refresh, restart trotz daten,
 - [ ] legacy - page scrollt bei Eingabe Dropdown
 - [ ] legacy - lifecycle logik
-- [ ] legacy - Jqeuery wirft Fehler in Production - script.js:tracking Script??
+- [x] <s>legacy - Jqeuery wirft Fehler in Production</s> - script.js:tracking Script klären??
 
 > Feature Requests
 
