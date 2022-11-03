@@ -29,11 +29,11 @@
 - [x] speichern value angestellter1 component
 - [ ] tsconfig erkennt ENTWEDER jasmine oder cypress syntax
 - [x] legacy - circular subscription Page1
-- [ ] legacy - circular subscription
+- [x] legacy - circular subscription
 - [x] legacy - mobile First / Layout
-- [ ] legacy - multiple Requests Page 1 :zap: :zap: :zap:
-- [ ] legacy - Requests Page3/4 -> gleiche subscription :zap: :zap: :zap:
-- [ ] legacy - page refresh, restart trotz daten,
+- [x] legacy - multiple Requests Page 1 :zap: :zap: :zap:
+- [x] legacy - Requests Page3/4 -> gleiche subscription :zap: :zap: :zap:
+- [ ] <s>legacy - page refresh, restart trotz daten</s> -> vergleichsseite gleiches Verhalten
 - [ ] legacy - page scrollt bei Eingabe Dropdown
 - [ ] legacy - lifecycle logik
 - [x] <s>legacy - Jqeuery wirft Fehler in Production</s> - script.js:tracking Script klären??
@@ -45,11 +45,11 @@
 
 > :sunny: beautify :sunny:
 
-- [ ] weniger Komponenten
+- [ ] <s>weniger Komponenten</s> -> Grundlegende Reastrukturierung
 - [ ] Imports überprüfen
-- [ ] logic view components
-- [ ] linter überprüfung auf 100%
-- [ ] lazy loading
+- [ ] <s>logic view components</s> -> Grundlegende Reastrukturierung
+- [ ] linter überprüfung auf 100%, :zap: tsconfig strictmode auf true :zap:
+- [ ] <s>lazy loading</s> -> Grundlegende Reastrukturierung
 - [x] legacy - "Versorgungsübersicht" überlappt, rendert nicht 
 - [x] legacy - header rendert nicht richtig in kleiner Auflösung
 
