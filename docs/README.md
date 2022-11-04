@@ -88,7 +88,7 @@
 
 |   | FIGMA |
 | ------ | ----------- |
-| pricing   | https://www.figma.com/de/pricing/ -> https://www.websitebuilderinsider.com/is-figma-free-for-commercial-use/#:~:text=PRO%20TIP%3A%20Yes%2C%20Figma%20is%20free%20for%20commercial%20use |
+| pricing   | (https://www.figma.com/de/pricing/) 3 Projekte kommerziell konstenlos https://www.websitebuilderinsider.com/is-figma-free-for-commercial-use/#:~:text=PRO%20TIP%3A%20Yes%2C%20Figma%20is%20free%20for%20commercial%20use |
 | homepage | https://www.figma.com/ |
 | infos | |
 
