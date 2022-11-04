@@ -34,7 +34,7 @@
 - [x] legacy - multiple Requests Page 1 :zap: :zap: :zap:
 - [x] legacy - Requests Page3/4 -> gleiche subscription :zap: :zap: :zap:
 - [ ] <s>legacy - page refresh, restart trotz daten</s> -> vergleichsseite gleiches Verhalten
-- [ ] legacy - page scrollt bei Eingabe Dropdown
+- [ ] <s>legacy - page scrollt bei Eingabe Dropdown</s> -> vergleichsseite gleiches Verhalten
 - [ ] legacy - lifecycle logik
 - [x] <s>legacy - Jqeuery wirft Fehler in Production</s> - script.js:tracking Script klären??
 
@@ -46,9 +46,9 @@
 > :sunny: beautify :sunny:
 
 - [ ] <s>weniger Komponenten</s> -> Grundlegende Reastrukturierung
-- [ ] Imports überprüfen
+- [x] Imports überprüfen
 - [ ] <s>logic view components</s> -> Grundlegende Reastrukturierung
-- [ ] linter überprüfung auf 100%, :zap: tsconfig strictmode auf true :zap:
+- [x] <s>linter überprüfung auf 100%,</s> :zap: tsconfig strictmode auf true  :zap:  :heavy_check_mark: [so weit wie möglich]
 - [ ] <s>lazy loading</s> -> Grundlegende Reastrukturierung
 - [x] legacy - "Versorgungsübersicht" überlappt, rendert nicht 
 - [x] legacy - header rendert nicht richtig in kleiner Auflösung
@@ -73,8 +73,27 @@
 > - codelizer
 > - pooper for bottstrap
 > - jasmine core
-----
-> Design Tool AdobeXD o.ä,
 ---
-Trivia:
-cdn's, B4ckend tests, css,
+##### Trivia:
+##### cdn's, B4ckend tests, css,
+-----
+
+<h3 style="text-align: center">~Design Tools~</h3>
+
+|   | invision |
+| ------ | ----------- |
+| pricing   | https://www.websitebuilderinsider.com/what-does-invision-enterprise-cost/ -> Keine konkrete Aussagen, für commercial License muss Kontakt aufgenommen werden |
+| homepage | https://www.invisionapp.com/plans |
+| infos | kein nativer html und css export. Mehr für PlanungsTemplates geeignet. Primär Browser Lösung https://support.invisionapp.com/hc/en-us/community/posts/360041543551-Export-CSS-file-of-a-project-from-InVision-Studio-or-InVision-App |
+
+|   | FIGMA |
+| ------ | ----------- |
+| pricing   | https://www.figma.com/de/pricing/ -> https://www.websitebuilderinsider.com/is-figma-free-for-commercial-use/#:~:text=PRO%20TIP%3A%20Yes%2C%20Figma%20is%20free%20for%20commercial%20use |
+| homepage | https://www.figma.com/ |
+| infos | |
+
+|   | AdobeXD |
+| ------ | ----------- |
+| pricing   | |
+| homepage |  |
+| infos | |
