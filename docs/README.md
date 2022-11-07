@@ -33,10 +33,10 @@
 - [x] legacy - mobile First / Layout
 - [x] legacy - multiple Requests Page 1 :zap: :zap: :zap:
 - [x] legacy - Requests Page3/4 -> gleiche subscription :zap: :zap: :zap:
-- [ ] <s>legacy - page refresh, restart trotz daten</s> -> vergleichsseite gleiches Verhalten
-- [ ] <s>legacy - page scrollt bei Eingabe Dropdown</s> -> vergleichsseite gleiches Verhalten
+- [x] <s>legacy - page refresh, restart trotz daten</s> -> vergleichsseite gleiches Verhalten
+- [x] <s>legacy - page scrollt bei Eingabe Dropdown</s> -> vergleichsseite gleiches Verhalten
 - [ ] legacy - lifecycle logik
-- [x] <s>legacy - Jqeuery wirft Fehler in Production</s> - script.js:tracking Script klären??
+- [x] <s>legacy - Jqeuery wirft Fehler in Production</s> -> kommt jetzt richtige response
 
 > Feature Requests
 
@@ -45,11 +45,11 @@
 
 > :sunny: beautify :sunny:
 
-- [ ] <s>weniger Komponenten</s> -> Grundlegende Reastrukturierung
+- [x] <s>weniger Komponenten</s> -> Grundlegende Restrukturierung
 - [x] Imports überprüfen
-- [ ] <s>logic view components</s> -> Grundlegende Reastrukturierung
+- [x] <s>logic view components</s> -> Grundlegende Restrukturierung
 - [x] <s>linter überprüfung auf 100%,</s> :zap: tsconfig strictmode auf true  :zap:  :heavy_check_mark: [so weit wie möglich]
-- [ ] <s>lazy loading</s> -> Grundlegende Reastrukturierung
+- [x] <s>lazy loading</s> -> Grundlegende Restrukturierung
 - [x] legacy - "Versorgungsübersicht" überlappt, rendert nicht 
 - [x] legacy - header rendert nicht richtig in kleiner Auflösung
 
