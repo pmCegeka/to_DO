@@ -16,7 +16,7 @@
 
 > Framework Updaten :point_up_2:
 
-- [x] Angular CKD, CLI, Material, etc
+- [x] Angular CDK, CLI, Material, etc
 - [x] Typescript
 - [x] Ts Config und Angular Compiler
 - [x] select 2 Component
