@@ -22,6 +22,7 @@
 - [x] select 2 Component
 - [x] Cypress
 - [x] code coverage Fehler
+- [x] :zap: :zap: :zap: npm audit fix
 
 > Bugz :bug::bug::bug::bug::bug:
 
@@ -50,7 +51,7 @@
 - [x] <s>logic view components</s> -> Grundlegende Restrukturierung
 - [x] <s>linter überprüfung auf 100%,</s> :zap: tsconfig strictmode auf true  :zap:  :heavy_check_mark: [so weit wie möglich]
 - [x] <s>lazy loading</s> -> Grundlegende Restrukturierung
-- [x] legacy - "Versorgungsübersicht" überlappt, rendert nicht 
+- [x] legacy - "Versorgungsübersicht" überlappt, rendert nicht
 - [x] legacy - header rendert nicht richtig in kleiner Auflösung
 
 > Deployment
